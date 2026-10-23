@@ -45,7 +45,5 @@ public class task3 {
                     break;
             }
         }
-
-        input.close();
     }
 }
